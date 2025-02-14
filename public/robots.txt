@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /volunteer
+
+Sitemap: https://agreementpaper.com/sitemap.xml
